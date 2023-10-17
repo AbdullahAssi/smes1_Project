@@ -1,0 +1,7 @@
+User 1
+User Account details are: 
+/nUser Name: 23
+User CNIC: 3
+Account Pin: 2345
+Account Balance: 3
+
